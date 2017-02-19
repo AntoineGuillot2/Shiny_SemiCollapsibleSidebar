@@ -1,0 +1,10 @@
+.sidebar-collapse .left-side, .sidebar-collapse .main-sidebar{   
+  transform: translate(0,0);
+    width: 40px;
+}
+
+.collapsed_text {   
+  background-color: grey;
+  height:30px;
+  
+}
