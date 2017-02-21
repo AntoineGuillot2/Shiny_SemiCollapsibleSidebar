@@ -8,6 +8,7 @@ shinyServer(function(input,output,session){
                  vals$collapsed=!vals$collapsed
                 }
                )
+
   
   output$Semi_collapsible_sidebar<-renderMenu({
     if (vals$collapsed)
